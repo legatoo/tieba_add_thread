@@ -1,0 +1,13 @@
+#LWP-Cookies-2.0
+Set-Cookie3: BAIDUID="AF2B7CA25F2AAF308295AA00FD582EE9:FG=1"; path="/"; domain=".baidu.com"; path_spec; domain_dot; expires="2082-08-04 12:20:54Z"; version=0
+Set-Cookie3: BDUSS=Q4aXdBcS1DczdiQlBWNFNTbE0yM25LQXRrVnpBbUNkQS12em5PMUtPMHBILTlUQUFBQUFBJCQAAAAAAAAAAAEAAACLh05LaGFrdW5hbWl0YXRhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACmSx1MpksdTZW; path="/"; domain=".baidu.com"; path_spec; expires="2022-10-03 09:06:49Z"; httponly=None; version=0
+Set-Cookie3: H_PS_PSSID=7549_1467_7650_7570_6995_7540_6505_6018_7607_7134_7632_7415_7688_7572_7474; path="/"; domain=".baidu.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: HISTORY=0926ba1672bc02dfab9b2408e190ffb138140767; path="/"; domain=".passport.baidu.com"; path_spec; expires="2022-10-03 09:06:49Z"; version=0
+Set-Cookie3: HOSUPPORT=1; path="/"; domain=".passport.baidu.com"; path_spec; expires="2022-10-03 09:06:48Z"; httponly=None; version=0
+Set-Cookie3: PTOKEN=39c8acb923dab1e0cbcb121c78083727; path="/"; domain=".passport.baidu.com"; path_spec; expires="2022-10-03 09:06:49Z"; httponly=None; version=0
+Set-Cookie3: SAVEUSERID=fe269b90347ad571846c513b7668c33f; path="/"; domain=".passport.baidu.com"; path_spec; expires="2022-10-03 09:06:49Z"; httponly=None; version=0
+Set-Cookie3: STOKEN=0283a4dd7d03623082f89512e4613e87; path="/"; domain=".passport.baidu.com"; path_spec; expires="2022-10-03 09:06:49Z"; httponly=None; version=0
+Set-Cookie3: UBI="fi_PncwhpxZ%7ETaJc1bdLRS0On677amfhGs4-1KW%7ErRmChZ7aTvcwvJhuzNAvyI%7EGx1hW5AVx7V7y6cwtTTBxHpEtjhH7VeSDzP8AzY8zMCHPKOxlqpEhUq2U25b5AeX0tuGJzyXDrasQ5-9sIVzPUyv3aoKjg__"; path="/"; domain=".passport.baidu.com"; path_spec; expires="2022-10-03 09:06:49Z"; httponly=None; version=0
+Set-Cookie3: USERNAMETYPE=1; path="/"; domain=".passport.baidu.com"; path_spec; expires="2022-10-03 09:06:49Z"; httponly=None; version=0
+Set-Cookie3: PHPSESSID=ok4c7cnm4p5gfu56q6iao8p346; path="/"; domain="i.baidu.com"; path_spec; discard; version=0
+Set-Cookie3: BDSVRTM=0; path="/"; domain="www.baidu.com"; path_spec; discard; version=0
